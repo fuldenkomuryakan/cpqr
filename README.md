@@ -1,8 +1,8 @@
-Censored Panel Quantile Regression with Fixed Effects via an Asymmetric Link Function 
+Censored Panel Quantile Regression with Fixed Effects via an Asymmetric Link Function
 
 Overview
 
-This repository contains the R codes used for the simulation analyses in the manuscript titled "Censored Panel Quantile Regression with Fixed Effects via an Asymmetric Link Function" by Fulden Komuryakan & Selahattin Guris. The analysis includes 2- and 3-step estimators for censored quantile regression models with fixed effects. In the first step of these estimators, the informative subset is determined by estimating the censoring probability. Previous studies commonly assume symmetric link functions, which may fail to capture the best subset when the censoring probability distribution is skewed. Given that asymmetrically censored data are prevalent in empirical analyses, we propose an asymmetric link function to more accurately determine the subset.
+This repository contains the R codes used for the simulation analyses in the manuscript titled "Censored Panel Quantile Regression with Fixed Effects via an Asymmetric Link Function" by Fulden Komuryakan and Selahattin Guris, accepted for publication in Communications in Statistics - Theory and Methods. The analysis includes 2- and 3-step estimators for censored quantile regression models with fixed effects. In the first step of these estimators, the informative subset is determined by estimating the censoring probability. Previous studies commonly assume symmetric link functions, which may fail to capture the best subset when the censoring probability distribution is skewed. Given that asymmetrically censored data are prevalent in empirical analyses, we propose an asymmetric link function to more accurately determine the subset.
 
 Contents
 
